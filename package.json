@@ -10,10 +10,19 @@
     "type": "git",
     "url": "git+https://github.com/kalviumcommunity/S69_MemeGenerator.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kalviumcommunity/S69_MemeGenerator/issues"
   },
-  "homepage": "https://github.com/kalviumcommunity/S69_MemeGenerator#readme"
+  "homepage": "https://github.com/kalviumcommunity/S69_MemeGenerator#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
