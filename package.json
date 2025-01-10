@@ -1,0 +1,19 @@
+{
+  "name": "s69_memegenerator",
+  "version": "1.0.0",
+  "description": "Project Title: Meme Generator Pro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/S69_MemeGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/S69_MemeGenerator/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/S69_MemeGenerator#readme"
+}
