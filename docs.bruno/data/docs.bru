@@ -1,0 +1,20 @@
+meta {
+  name: docs
+  type: http
+  seq: 2
+}
+
+get {
+  url: http://localhost:5000/api/items
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "name": "Litti Chokha",
+    "price": 10,
+    "category": "Bihari style"
+  }
+  
+}
