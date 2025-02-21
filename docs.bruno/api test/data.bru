@@ -1,0 +1,20 @@
+meta {
+  name: data
+  type: http
+  seq: 3
+}
+
+get {
+  url: http://localhost:5000/api/items/67a59030cacce0c8cf8e7d61
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "name": "margherita",
+    "price": 12.99,
+    "category": "chinese"
+  }
+  
+}
