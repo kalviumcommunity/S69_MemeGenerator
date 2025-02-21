@@ -24,3 +24,5 @@ Backend: Node.js with Express.js
 Database: MongoDB
 Why This Project:
 I’ve chosen this project because memes are a fun, creative way to connect with others and express humor. It’s a light-hearted and engaging topic, offering a break from serious projects. This project will allow me to enhance my skills in user interaction design, image processing,etc.. Plus, it’s an opportunity to bring joy to users while exploring the technical challenges of building an interactive and visually engaging app.
+
+deplyment link : https://darling-licorice-8dedb2.netlify.app/
