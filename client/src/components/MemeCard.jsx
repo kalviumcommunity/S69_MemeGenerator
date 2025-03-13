@@ -6,9 +6,9 @@ const MemeCard = () => {
 
 
   return (
-    <div>
+    <div className="card">
       <h2>MEME OF THE DAY: WHEN YOU FINALLY UNDERSTAND GITHUB</h2>
-      <img src="https://i.imgflip.com/30b1gx.jpg" height="300px"  alt="Meme" />
+      <img src="https://i.imgflip.com/30b1gx.jpg" height="300px" width="250px"  alt="Meme" />
     </div>
   );
 };
